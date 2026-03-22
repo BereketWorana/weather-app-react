@@ -1,16 +1,35 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive weather application built with React and Vite, powered by the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+👉 [weather-app-react-alpha-ruby.vercel.app](https://weather-app-react-alpha-ruby.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Search weather by city name
+- Displays temperature, humidity and weather condition
+- Clean and responsive UI
+- Real-time data from OpenWeatherMap API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
 
-## Expanding the ESLint configuration
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+```bash
+git clone https://github.com/BereketWorana/weather-app-react.git
+cd weather-app-react
+npm install
+npm run dev
+```
+
+> ⚠️ You need an OpenWeatherMap API key. Create a `.env` file and add:
+> `VITE_API_KEY=your_api_key_here`
+
+## 👨‍💻 Author
+
+**Bereket Worana** — [github.com/BereketWorana](https://github.com/BereketWorana)
