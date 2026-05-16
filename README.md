@@ -306,7 +306,7 @@ This project is open source under the MIT License.
 
 **Bereket Worana**
 - GitHub: [@BereketWorana](https://github.com/BereketWorana)
-- Email: [Add your email]
+- Email: [bereketworana@gmail.com]
 
 ## 🎓 Perfect For
 
